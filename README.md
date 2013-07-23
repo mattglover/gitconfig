@@ -1,0 +1,3 @@
+### .gitconfig
+
+Copy .gitconfig in ~/. 
