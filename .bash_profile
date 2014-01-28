@@ -20,3 +20,12 @@ fi
 alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
+
+# Clear Screen
+alias cl=clear
+
+# git alias - tab completion
+source ~/.git-completion.bash
+
+# xcode open workspace
+ alias openw='open *.xcworkspace'
