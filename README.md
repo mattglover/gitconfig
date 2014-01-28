@@ -1,3 +1,4 @@
 ### .gitconfig
 
-Copy .gitconfig in ~/. 
+Copy .gitconfig into ~/. 
+Copy .git-completion.bash into ~/.
